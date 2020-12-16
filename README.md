@@ -6,3 +6,5 @@ Masonry layout is a common Web design pattern where a number of items — common
 The Pinterest search results page exemplifies this layout:
 
 <img src="https://drafts.csswg.org/css-grid-3/images/pinterest.png">
+
+#### Fonte: https://www.notion.so/Masonry-Grid-CSS-2020-5d062efafec94f7fa75110d7326789ec
